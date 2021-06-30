@@ -164,5 +164,3 @@ client.on("messageReactionAdd", async (reaction, user, message) => {
       });
   }
 });
-
-client.login(token);
